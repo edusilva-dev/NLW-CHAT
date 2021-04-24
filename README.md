@@ -1,7 +1,7 @@
 ## Chat utilizando webSocket
 
 ### Para o projeto, foi utilizado as seguintes tecnologias
-- NodesJS (framework express)
+- NodesJS (Express)
 - TypeScript
 - Javascript
 - Typeorm
