@@ -4,7 +4,7 @@
 
 #### Ver todo esse conjunto funcionando e o chat rodando enviando e recebendo mensagens, foi uma baita experiência!
 
-#### Para o projeto, foi utilizado as seguintes tecnologias
+#### Para o projeto, foi utilizado as seguintes tecnologias:
 - NodesJS (Express)
 - TypeScript
 - Javascript
