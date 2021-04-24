@@ -1,4 +1,4 @@
-## Chat utilizando webSocket
+## Chat com web socket
 
 ### Para o projeto, foi utilizado as seguintes tecnologias
 - NodesJS (Express)
